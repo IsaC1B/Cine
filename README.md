@@ -8,3 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Deploy: https://aplicacion-cine-8-esbzj0k2j-agbr121s-projects.vercel.app/
+
+
+
+# Link
+https://gentle-maamoul-05c9d4.netlify.app
