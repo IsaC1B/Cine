@@ -2,14 +2,6 @@
 
 CineApp es una aplicación web para buscar y visualizar información sobre películas. La aplicación está construida con React y utiliza la API de TMDb para obtener datos de las películas.
 
-## Tabla de Contenidos
-
-- [Características](#características)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
-
 ## Características
 
 - Buscar películas por título.
