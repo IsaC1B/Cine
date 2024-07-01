@@ -14,7 +14,7 @@ CineApp es una aplicación web para buscar y visualizar información sobre pelí
 Asegúrate de tener instalado Node.js y npm en tu máquina.
 
 
-##Link de página
+## Link de página
 https://gentle-maamoul-05c9d4.netlify.app
 
 ### Clonar el Repositorio
