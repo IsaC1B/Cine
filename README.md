@@ -1,14 +1,31 @@
-# React + Vite
+# CineApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CineApp es una aplicación web para buscar y visualizar información sobre películas. La aplicación está construida con React y utiliza la API de TMDb para obtener datos de las películas.
 
-Currently, two official plugins are available:
+## Tabla de Contenidos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Características](#características)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribuir](#contribuir)
+- [Licencia](#licencia)
 
-Deploy: https://aplicacion-cine-8-esbzj0k2j-agbr121s-projects.vercel.app/
+## Características
 
+- Buscar películas por título.
+- Ver detalles de las películas, incluyendo sinopsis, calificación, y más.
+- Navegar por diferentes categorías de películas (populares, en cartelera, próximas a estrenarse).
+- Interfaz de usuario intuitiva y responsive.
+
+### Prerrequisitos
+
+Asegúrate de tener instalado Node.js y npm en tu máquina.
+
+### Clonar el Repositorio
+
+```bash
+git clone https://github.com/tu-usuario/CineApp.git
+cd CineApp
 
 
 # Link
