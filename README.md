@@ -13,13 +13,11 @@ CineApp es una aplicación web para buscar y visualizar información sobre pelí
 
 Asegúrate de tener instalado Node.js y npm en tu máquina.
 
-### Clonar el Repositorio
 
+##Link de página
+https://gentle-maamoul-05c9d4.netlify.app
+
+### Clonar el Repositorio
 ```bash
 git clone https://github.com/tu-usuario/CineApp.git
 cd CineApp
-
-
-
-##Link
-https://gentle-maamoul-05c9d4.netlify.app
